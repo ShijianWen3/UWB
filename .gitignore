@@ -130,3 +130,7 @@ Makefile.Release
 
 Makefile
 *localtemptmp*
+
+# language files
+*.ts
+*.qm

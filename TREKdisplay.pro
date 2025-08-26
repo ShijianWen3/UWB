@@ -91,4 +91,7 @@ RC_FILE = logo.rc
 # 检查gsl.pri是否存在，如果不存在请注释掉
 include ($$PWD/gsl/gsl.pri)
 
+DISTFILES += \
+    .gitignore
+
 
