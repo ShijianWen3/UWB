@@ -79,16 +79,17 @@ FORMS += \
 UI_DIR = ..\\..\\ui
 
 RESOURCES += \
-    res/lanague.qrc \
+    res/lanague.qrc\
     res/resources.qrc
 
-TRANSLATIONS = lanague_cn.ts \
-               lanague_en.ts
+TRANSLATIONS += \
+    language_cn.ts\
+    language_en.ts
 
 # 检查这个文件是否存在
 RC_FILE = logo.rc
 
-# 检查gsl.pri是否存在，如果不存在请注释掉
+
 include ($$PWD/gsl/gsl.pri)
 
 DISTFILES += \
