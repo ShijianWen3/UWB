@@ -20,6 +20,7 @@
         <file>position.png</file>
         <file>scale.png</file>
         <file>reset.png</file>
+        <file>UWB.ico</file>
     </qresource>
     <qresource prefix="/">
         <file>../qss/Aqua.qss</file>

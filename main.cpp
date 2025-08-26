@@ -46,7 +46,7 @@ int main(int argc, char *argv[])
 
     //app.mainWindow()->setWindowFlags(app.mainWindow()->windowFlags()& ~Qt::WindowMaximizeButtonHint);
     //app.mainWindow()->setFixedSize(app.mainWindow()->width(), app.mainWindow()->height());
-    app.mainWindow()->setWindowState(Qt::WindowMaximized);
+    app.mainWindow()->setWindowState(Qt::WindowMaximized);//最大化显示
     //app.mainWindow()->setFixedSize(QApplication::desktop()->width(),QApplication::desktop()->height());
 
 

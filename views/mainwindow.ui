@@ -125,7 +125,7 @@
   <action name="actionConfig">
    <property name="icon">
     <iconset resource="../res/resources.qrc">
-     <normaloff>:/icons/haorutech.ico</normaloff>:/icons/haorutech.ico</iconset>
+     <normaloff>:/icons/UWB.ico</normaloff>:/icons/UWB.ico</iconset>
    </property>
    <property name="text">
     <string>Channel Config</string>
