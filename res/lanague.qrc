@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/new/prefix1"/>
     <qresource prefix="/">
-        <file>lanague_cn.qm</file>
-        <file>lanague_en.qm</file>
+        <file>language_cn.qm</file>
+        <file>language_en.qm</file>
     </qresource>
 </RCC>

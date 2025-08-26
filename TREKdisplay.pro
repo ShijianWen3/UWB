@@ -79,7 +79,7 @@ FORMS += \
 UI_DIR = ..\\..\\ui
 
 RESOURCES += \
-    res/lanague.qrc\
+    res/language.qrc\
     res/resources.qrc
 
 TRANSLATIONS += \
